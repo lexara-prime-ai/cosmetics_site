@@ -1,0 +1,12 @@
+{
+  "name": "cosmetics_web_app",
+  "version": "1.0.0",
+  "description": "Cosmetics Website",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Irfan Ghat",
+  "license": "ISC"
+}
